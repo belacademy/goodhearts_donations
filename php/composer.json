@@ -1,20 +1,19 @@
 {
   "name": "belacademy/goodhearts_donations",
   "type": "library",
-  "description": "Your package description goes here",
+  "description": "Good Hearts Donations implementation with PHP",
   "keywords": [
-    "relevant",
-    "tags",
-    "go",
-    "here"
+    "Donations",
+    "HelloCash API implementation for Donation projects",
+    "Donations with Payment system integration sample"
   ],
-  "homepage": "https://yourcompany.com",
+  "homepage": "https://ghd.herokuapp.com",
   "license": "MIT",
   "authors": [
     {
-      "name": "Jordi Boggiano",
-      "email": "j.boggiano@seld.be",
-      "homepage": "http://seld.be",
+      "name": "BelAcademy",
+      "email": "belacademy20@gmail.com",
+      "homepage": "http://https://ghd.herokuapp.com",
       "role": "Developer"
     }
   ]
